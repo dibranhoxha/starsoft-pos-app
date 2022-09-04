@@ -1,0 +1,1 @@
+# starsoft-pos-app
